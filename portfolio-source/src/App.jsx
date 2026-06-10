@@ -46,7 +46,7 @@ const SKILLS = {
 };
 
 const SOCIALS = [
-  { alt: "LinkedIn",      href: "https://www.linkedin.com/in/anishrajai",        src: "assets/LinkedIn_icon.svg.png" },
+  { alt: "LinkedIn",      href: "https://www.linkedin.com/in/anishrajai",        src: "/assets/LinkedIn_icon.svg.png" },
   { alt: "GitHub",        href: "https://github.com/anishrajai",                 src: "https://cdn.simpleicons.org/github" },
   { alt: "LeetCode",      href: "https://leetcode.com/YOUR_USERNAME",               src: "https://cdn.simpleicons.org/leetcode" },
   { alt: "GeeksforGeeks", href: "https://www.geeksforgeeks.org/user/YOUR_USERNAME", src: "https://cdn.simpleicons.org/geeksforgeeks" },
@@ -385,7 +385,7 @@ export default function App() {
             contain: "layout paint",
           }}>
             <img
-              src="assets/Avatar.jpeg"
+              src="/assets/Avatar.jpeg"
               alt="Anish Raj P profile photo"
               loading="eager"
               decoding="async"
@@ -434,7 +434,7 @@ export default function App() {
             </div>
 
             <a
-  href="assets\Anish_Raj_P_Resume_Updated.pdf"
+  href="/assets/Anish_Raj_P_Resume_Updated.pdf"
   download="Anish_Raj_Resume.pdf"
   className="primary-btn"
   style={{
