@@ -48,7 +48,7 @@ const SKILLS = {
 const SOCIALS = [
   { alt: "LinkedIn",      href: "https://www.linkedin.com/in/anishrajai",        src: "/assets/LinkedIn_icon.svg.png" },
   { alt: "GitHub",        href: "https://github.com/anishrajai",                 src: "https://cdn.simpleicons.org/github" },
-  { alt: "LeetCode",      href: "https://leetcode.com/YOUR_USERNAME",               src: "https://cdn.simpleicons.org/leetcode" },
+  { alt: "LeetCode",      href: "https://leetcode.com/anishrajai",               src: "https://cdn.simpleicons.org/leetcode" },
   { alt: "GeeksforGeeks", href: "https://www.geeksforgeeks.org/user/YOUR_USERNAME", src: "https://cdn.simpleicons.org/geeksforgeeks" },
 ];
 
