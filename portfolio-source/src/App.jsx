@@ -421,13 +421,13 @@ export default function App() {
                 </div>
                 <div>
                   <p style={{ fontSize: "15px", fontWeight: 600, color: "#2a1a14", margin: "0 0 2px" }}>
-                    Saveetha Engineering College
+                    Saveetha Engineering College(Autonomous)
                   </p>
                   <p style={{ fontSize: "13px", color: "#6b4c3b", margin: "0 0 8px" }}>
                     B.Tech — Artificial Intelligence and Data Science
                   </p>
                   <span style={{ fontSize: "12px", background: "#fdf6f0", color: "#c97b63", border: "1px solid #f0bba8", borderRadius: "50px", padding: "3px 10px", fontWeight: 500 }}>
-                    CGPA: 8.04
+                    CGPA: 8.10
                   </span>
                 </div>
               </div>
